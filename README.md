@@ -16,6 +16,8 @@ git commit -m "init"
 7. Create a new branch named "development" and switch to it.
 git branch development
 git checkout development
+8. Merge changes from the "development" branch into the "main" branch
+git merge development
 
 
 
